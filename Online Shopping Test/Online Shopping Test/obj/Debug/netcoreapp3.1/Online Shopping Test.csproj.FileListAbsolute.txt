@@ -1,0 +1,14 @@
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\bin\Debug\netcoreapp3.1\Online Shopping Test.exe
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\bin\Debug\netcoreapp3.1\Online Shopping Test.deps.json
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\bin\Debug\netcoreapp3.1\Online Shopping Test.runtimeconfig.json
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\bin\Debug\netcoreapp3.1\Online Shopping Test.runtimeconfig.dev.json
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\bin\Debug\netcoreapp3.1\Online Shopping Test.dll
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\bin\Debug\netcoreapp3.1\Online Shopping Test.pdb
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.csproj.AssemblyReference.cache
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.AssemblyInfoInputs.cache
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.AssemblyInfo.cs
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.csproj.CoreCompileInputs.cache
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.dll
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.pdb
+C:\Users\abidi\Downloads\bs23\Online Shopping Test\Online Shopping Test\obj\Debug\netcoreapp3.1\Online Shopping Test.genruntimeconfig.cache
