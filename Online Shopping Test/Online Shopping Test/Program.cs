@@ -127,7 +127,14 @@ namespace Online_Shopping_Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Product p1 = new Product("iPad",40000,"iPad 9th Gen 10.2 inch 64GB New");
+            Product p2 = new Product("iPhone",20000,"iPhone X 64GB Used");
+            p1.ShowProduct();
+            p2.ShowProduct();
+            ShoppingCart cart1 = new ShoppingCart();
+            cart1.AddProduct(p1);
+            cart1.AddProduct(p2);
+
         }
     }
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IXhWy7EQLLu5NrG66PFwPRqBXewGRKkU8g00ytqlxHQsOiX4Ge7Oyg5b2D/X9/Rj6OepXJT8MhT0EmlxY9QgdA==",
+  "dgSpecHash": "5XZjKgBPbC82O/ncehIlQoc/FHeRGlsIzhLsEdfSkPpCMM9GmMBU5AFeAy7EaSYjmRk5Yzq7nEOQEcV1LcyGrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abidi\\Downloads\\bs23\\Online Shopping Test\\Online Shopping Test\\Online Shopping Test.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\abidi\\OneDrive\\Desktop\\OSMS\\Online Shopping Test\\Online Shopping Test\\Online Shopping Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abidi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\abidi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\abidi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\abidi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
